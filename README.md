@@ -1,3 +1,8 @@
+# LandingPage
+
+Projeto feito em angular 17 com SSR
+Projeto de landing page com envio de nome e verificação de email. Projeto já otimizado com alterações em services e no componente newsletter
+
 # LandingAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
